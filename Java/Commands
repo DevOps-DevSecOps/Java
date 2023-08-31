@@ -1,1 +1,3 @@
+java -version
+
 java -jar FILE_NAME.jar
